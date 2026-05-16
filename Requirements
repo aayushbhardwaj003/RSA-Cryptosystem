@@ -1,0 +1,6 @@
+# RSA Cryptosystem Project Requirements
+
+Python >= 3.8
+
+# Standard Python Libraries Used
+math
